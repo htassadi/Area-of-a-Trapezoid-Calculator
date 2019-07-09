@@ -1,0 +1,26 @@
+html{
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif
+}
+
+body {
+    width: 600px;
+    background-color: white; 
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto
+}
+
+button {
+    background-color: maroon;
+    color: white;
+    font-size: 20px;
+    border: solid maroon
+}
+
+button:hover {
+    background-color: black;
+    border: solid black
+}
